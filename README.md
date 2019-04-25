@@ -1,5 +1,7 @@
-build blockchain web application with Ethereum 
-simple tools used to build oneAgent Dapp are:   
+#Example application
+
+build blockchain web application with Ethereum API. 
+the simple tools used to build oneAgent Dapp are:   
       .nodejs installed
       .reactjs
       .IPFS(InterPlanetary File System)
@@ -8,3 +10,5 @@ simple tools used to build oneAgent Dapp are:
 
 skills require are:
       .web3
+      .ERC20 standard
+ Notice: some Libraries are deprecated
