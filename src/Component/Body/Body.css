@@ -1,0 +1,48 @@
+.jumbotron{
+    min-height: 400px;
+    background: url('/image/check.jpg') no-repeat ;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff !important;
+    margin-bottom: 0 !important;
+}
+.jumbotron p {   
+    font-size: 20px !important;    
+}
+
+.jumbotron h1{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    
+}
+
+.jumbotron .highlight {
+    color: black;
+    font-weight: bold;
+}
+
+
+/* .jumbotron {
+    height: 350px;
+    color: white;
+    text-shadow: #444 0 1px 1px;
+    background: transparent; */
+    /* jumbotron {
+        padding: 30px;
+        margin-bottom: 30px;
+        font-size: 21px;
+        font-weight: 200;
+        line-height: 2.1428571435;
+        color: inherit;
+        background-color: #eee;
+    } */
+
+    /* .jumbotron p {
+        line-height: 1.4;
+    } */
+
+    /* p {
+        margin: 0 0 10px;
+    } */

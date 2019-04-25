@@ -1,0 +1,33 @@
+Microsoft Windows [Version 10.0.17134.228]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\HP\Documents\Project\OneAgent\ReactJs\Project\React_With_Bootstrap\one-agent>npm run build
+
+> one-agent@0.1.0 build C:\Users\HP\Documents\Project\OneAgent\ReactJs\Project\React_With_Bootstrap\one-agent
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  157.09 KB  build\static\js\main.0e9d2f24.js
+  21.8 KB    build\static\css\main.7f8fba1c.css
+
+The project was built assuming it is hosted at the server root.
+You can control this with the homepage field in your package.json.
+For example, add this to build it for GitHub Pages:
+
+  "homepage" : "http://myname.github.io/myapp",
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  serve -s build
+
+Find out more about deployment here:
+
+  http://bit.ly/2vY88Kr
+
+
+C:\Users\HP\Documents\Project\OneAgent\ReactJs\Project\React_With_Bootstrap\one-agent>
